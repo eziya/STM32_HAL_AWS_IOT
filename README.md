@@ -1,0 +1,2 @@
+# SMT32_HAL_AWS_IOT
+AWS IOT prototype for STM32F4
