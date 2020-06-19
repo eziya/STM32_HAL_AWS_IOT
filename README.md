@@ -23,4 +23,7 @@ AWS IOT prototype for STM32F4
  - Write your endpoint address to mqtt_task.c
  - Debug
  
+ 5. Test Video
+  - https://youtu.be/HgoDnCgEJqc
+ 
 ![pinout](./aws_iot.jpg)<br>
